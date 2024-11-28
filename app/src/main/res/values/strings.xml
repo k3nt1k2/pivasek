@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pivasek</string>
+    <string name="textPiva">Тип Пива</string>
+    <string name="pushBtn">Нажать</string>
+    <string-array name="type_beer">
+        <item>Тёмное</item>
+        <item>Светлое</item>
+        <item>Ржанное</item>
+        <item>Сладкое</item>
+        <item>Горькое</item>
+    </string-array>
+</resources>
